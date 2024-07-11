@@ -1,4 +1,4 @@
-# Amazon Sales Dataset
+# Amazon Sales Dataset EDA
 
 ## Problem Statement:
 I am working on a dataset containing Amazon product ratings and reviews. This dataset has the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon. The task involves data cleaning, visualizing trends and patterns, performing descriptive statistics, creating various charts and graphs, and identifying outliers. Additionally, I will address 12 industry-level data analytics questions to gain deeper insights into product popularity, pricing strategies, user behavior, and review sentiments.
@@ -94,4 +94,7 @@ From an industrial perspective, this project holds significant value:
 *Competitive Advantage:* Leveraging data-driven insights allows businesses to stay ahead of the competition by making informed decisions based on empirical evidence rather than intuition.
 
 ## Author
-Pranay Khandagle
+## Pranay Khandagle
+
+## Email: pranay13257@gmail.com
+## [LinkedIn](www.linkedin.com/in/pranay-khandagle-b8939a2a3)
